@@ -20,6 +20,7 @@ Văn bản chung (Wikipedia, báo chí, sách, web…)
 | NewsSapo   | 31,728,183 | - | 2024 | – | [Hugging Face](https://huggingface.co/datasets/bkai-foundation-models/NewsSapo) | – |
 | 10000 Vietnamese Books | 10400 | ~8.5 GB |  –  | – | [kaggle](https://www.kaggle.com/datasets/iambestfeeder/10000-vietnamese-books) | – |
 | VietVault |  –  | ~80GB |  –  | – | [Hugging Face](https://huggingface.co/datasets/nampdn-ai/vietvault) | – |
+| Vietnamese Legal Dataset |  –  |   –  |  –  | – | [kaggle](https://www.kaggle.com/datasets/quangbut/vietnamese-legal/data) | – |
 
 **📝 Notes:**  
 - *wikipedia_vi*: 
